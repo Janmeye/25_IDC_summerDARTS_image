@@ -3,13 +3,13 @@ The purpose of this repository is for training purposes apart of UCF Data-Enable
 
 ## Structure
 -- Data/
---------IDCsubmersionMasterlist_20250505.csv # central reference list of IDC with information including experimental conditions, image filenames, and test parameters
---------/CV # Subfolder with capacitance vs voltage csv files
------------/CV_PRISTINE # csv files for fresh IDC boards not exposed to elements
------------/CF_EXPOSED # csv files for IDC boards that have been biased and exposed
---------/CF # subfolder with capacitance vs frequencey csv files
------------/CV_PRISTINE # csv files for fresh IDC boards not exposed to elements
------------/CF_EXPOSED #csv files for IDC boards that have been biased and exposed
+--------IDCsubmersionMasterlist_20250505.csv   _#central reference list of IDC with information including experimental conditions, image filenames, and test parameters_
+--------/CV   _#Subfolder with capacitance vs voltage csv files_
+-----------/CV_PRISTINE   _#csv files for fresh IDC boards not exposed to elements_
+-----------/CF_EXPOSED    _#csv files for IDC boards that have been biased and exposed_
+--------/CF  _#subfolder with capacitance vs frequencey csv files_
+-----------/CV_PRISTINE   _#csv files for fresh IDC boards not exposed to elements_
+-----------/CF_EXPOSED    _#csv files for IDC boards that have been biased and exposed_
 
 ## Related Resources
 Image data is stored in the companion repository (https://github.com/Janmeye/25_IDC_summerDARTS_image)
